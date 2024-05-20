@@ -19,3 +19,6 @@
 -------
 
 #### รอบ Admission: Computer Engineering and Digital Technology | CEDT Chula U. (ยืนยันสิทธิ์) 🩷
+1. วิชาที่ใช้: TGAT 20%, TPAT3 30%, A-level Math1 50%
+2. การเตรียมตัว(ของเรา):
+   - เราลง Pack TGAT 3วิชา + Pack TPAT3 ของ Ondemand
